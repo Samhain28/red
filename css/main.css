@@ -8,7 +8,7 @@ body {
     padding-left: 100px;
 
     font-family: "Montserrat", sans-serif;
-
+}
 /* card */
 
 .card {
@@ -62,7 +62,7 @@ body {
     font-size: 22px;
     font-weight: 700;
 
-    transition: background-color 0.2s ease in, color 0.2s ease in border 0.2s ease in;
+    transition: background-color 0.2s ease in, color 0.2s ease in, border 0.2s ease in;
 
     background: #CD2626;
     color: #FFFFFF;
